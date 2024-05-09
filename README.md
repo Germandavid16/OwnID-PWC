@@ -33,7 +33,7 @@ First, OwnID makes a request to this route, where we can write any login logic. 
 ```
 Once you've written the logic for the routes and everything is ready, you'll need to create an application on the website https://console.ownid.com/home, where you'll specify the domain of your server to which OwnID will communicate.
 
-![img.png](img.png)
+![img.png](https://github.com/Germandavid16/OwnID-PWC/blob/main/OwnId_Frontend/img.png)
 After creating the application, we specify the AppId in the configuration.
 ```js
 <OwnIDInit
